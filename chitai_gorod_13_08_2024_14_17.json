@@ -1,0 +1,1700 @@
+[
+    {
+        "book_title": "Грокаем алгоритмы. Иллюстрированное пособие для программистов и любопытствующих",
+        "book_price": "802₽",
+        "book_author": "Адитья Бхаргава",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Python на примерах. Практика, практика и только практика",
+        "book_price": "541₽",
+        "book_author": "Д. Кольцов",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Python с нуля",
+        "book_price": "1 546₽",
+        "book_author": "Петр Левашов",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Python глазами хакера",
+        "book_price": "369₽",
+        "book_author": "М. Бруцкий-Стемпковский",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Python для Excel. Современная среда для автоматизации и анализа данных",
+        "book_price": "950₽",
+        "book_author": "Феликс Зумштейн",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Python для data science",
+        "book_price": "1 315₽",
+        "book_author": "Юлий Васильев",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Python для непрограммистов. Самоучитель в примерах",
+        "book_price": "442₽",
+        "book_author": "Джош Коглиати",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Python. Экспресс-курс. 3-е издание",
+        "book_price": "1 602₽",
+        "book_author": "Наоми Седер",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Python для финансистов. Базовые концепции",
+        "book_price": "1 602₽",
+        "book_author": "Ив Хилпиш",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Python. Полное руководство",
+        "book_price": "906₽",
+        "book_author": "Д. Кольцов",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Python - это просто. Пошаговое руководство по программированию и анализу данных",
+        "book_price": "860₽",
+        "book_author": "Нилаб Нисчал",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Python. Самое полное руководство по разработке в примерах от сообщества Stack Overflow",
+        "book_price": "1 703₽",
+        "book_author": "",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Python. Красивые задачи для начинающих",
+        "book_price": "883₽",
+        "book_author": "Павел Добряк",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Python, Django и Bootstrap для начинающих",
+        "book_price": "894₽",
+        "book_author": "Анатолий Постолит",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Python: быстрый старт",
+        "book_price": "839₽",
+        "book_author": "Ду Чан",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Python, например",
+        "book_price": "1 238₽",
+        "book_author": "Никола Лейси",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Python-интенсив: 50 быстрых упражнений",
+        "book_price": "943₽",
+        "book_author": "Реувен Лернер",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Python. Основы программирования",
+        "book_price": "1 196₽",
+        "book_author": "",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Python для гиков",
+        "book_price": "1 006₽",
+        "book_author": "Мухаммад Азиф",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Python за 7 дней. Краткий курс для начинающих",
+        "book_price": "873₽",
+        "book_author": "Эндрю Парк",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Python и DevOps: Ключ к автоматизации Linux",
+        "book_price": "1 995₽",
+        "book_author": "Ной Гифт",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Python. Великое программирование в Minecraft",
+        "book_price": "794₽",
+        "book_author": "Андрей Корягин, Алиса Корягина",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Python. Исчерпывающее руководство",
+        "book_price": "1 745₽",
+        "book_author": "Дэвид Бизли",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Python для детей. Самоучитель по программированию",
+        "book_price": "1 450₽",
+        "book_author": "Джейсон Бриггс",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Python. Великое программирование в Minecraft",
+        "book_price": "959₽",
+        "book_author": "Андрей Корягин, Алиса Корягина",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Python на практике. Войти в IT с нуля",
+        "book_price": "Нет цены",
+        "book_author": "Д. Кольцов",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Python. Погружение в математику с Minecraft",
+        "book_price": "959₽",
+        "book_author": "Андрей Корягин, Алиса Корягина",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Python для хакеров. Нетривиальные задачи и проекты",
+        "book_price": "1 536₽",
+        "book_author": "Ли Воган",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Python. Создай свою первую игру с нуля! Самоучитель в примерах",
+        "book_price": "715₽",
+        "book_author": "Джесс Вейхлер, Сет Кенлон",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Python. 12 уроков для начинающих",
+        "book_price": "615₽",
+        "book_author": "Павел Добряк",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Python. Чистый код для продолжающих",
+        "book_price": "1 762₽",
+        "book_author": "Эл Свейгарт",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Python для юных программистов",
+        "book_price": "764₽",
+        "book_author": "Денис Голиков",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Python для детей. Курс для начинающих",
+        "book_price": "787₽",
+        "book_author": "Александр Банкрашков",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Python. Создаем программы и игры",
+        "book_price": "629₽",
+        "book_author": "Д. Кольцов",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Python без проблем: решаем реальные задачи и пишем полезный код",
+        "book_price": "1 260₽",
+        "book_author": "Даниэль Зингаро",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Python 3 и PyQt 6. Разработка приложений",
+        "book_price": "1 509₽",
+        "book_author": "Владимир Дронов, Николай Прохоренок",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Python. Великое программирование в Minecraft",
+        "book_price": "550₽",
+        "book_author": "Андрей Корягин",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Python Создаем программы и игры",
+        "book_price": "Нет цены",
+        "book_author": "Д. Кольцов",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Python 3. Самое необходимое. 2-е издание, переработанное и дополненное",
+        "book_price": "960₽",
+        "book_author": "Николай Прохоренок",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Python. Как стать профессионалом",
+        "book_price": "894₽",
+        "book_author": "Дуг Фаррелл",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Python 3 и PyQt 6. Разработка приложений",
+        "book_price": "Нет цены",
+        "book_author": "Владимир Дронов, Николай Прохоренок",
+        "book_in_stock": "Где купить?"
+    },
+    {
+        "book_title": "Python, например",
+        "book_price": "835₽",
+        "book_author": "Никола Лейси",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Python. Лучшие практики и инструменты",
+        "book_price": "3 193₽",
+        "book_author": "Тарек Зиаде, Михал Яворски",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Python. Книга Рецептов",
+        "book_price": "3 059₽",
+        "book_author": "Дэвид Бизли",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Python для сложных задач: наука о данных. 2-е издание",
+        "book_price": "2 199₽",
+        "book_author": "Дж. Вандер Плас",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Python для сетевых инженеров. Автоматизация сети, программирование и DevOps",
+        "book_price": "2 972₽",
+        "book_author": "Эрик Чоу",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Python для детей. Самоучитель по программированию",
+        "book_price": "Нет цены",
+        "book_author": "Джейсон Бриггс",
+        "book_in_stock": "Буду ждать"
+    },
+    {
+        "book_title": "Python глазами хакера",
+        "book_price": "Нет цены",
+        "book_author": "М. Бруцкий-Стемпковский",
+        "book_in_stock": "Буду ждать"
+    },
+    {
+        "book_title": "Python. Сборник упражнений. Введение в язык Python с задачами и решениями",
+        "book_price": "Нет цены",
+        "book_author": "Брайан Стивенсон",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Python для сложных задач: наука о данных и машинное обучение",
+        "book_price": "Нет цены",
+        "book_author": "Дж. Вандер Плас",
+        "book_in_stock": "Где купить?"
+    },
+    {
+        "book_title": "Python. Полное руководство",
+        "book_price": "655₽",
+        "book_author": "Д. Кольцов",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Python. Непрерывная интеграция и доставка",
+        "book_price": "1 269₽",
+        "book_author": "Мориц Ленц",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Python. Искусственный интеллект, большие данные и облачные вычисления",
+        "book_price": "2 673₽",
+        "book_author": "Пол Дж. Дейтел",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Python 3. Самое необходимое. 2-е издание, переработанное и дополненное",
+        "book_price": "705₽",
+        "book_author": "Николай Прохоренок",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Python и анализ данных. Первичная обработка данных с применением pandas, NumPy и Ipython",
+        "book_price": "Нет цены",
+        "book_author": "Уэс Маккинни",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Python на примерах. Практика, практика и только практика",
+        "book_price": "390₽",
+        "book_author": "Д. Кольцов",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Python на практике",
+        "book_price": "1 359₽",
+        "book_author": "Александр Киселев",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Python 3 и PyQt 5 Разработка приложений (м) Прохоренок",
+        "book_price": "925₽",
+        "book_author": "",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Python. Создаем программы и игры",
+        "book_price": "445₽",
+        "book_author": "Д. Кольцов",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Python - это просто. Пошаговое руководство по программированию и анализу данных",
+        "book_price": "625₽",
+        "book_author": "Нилаб Нисчал",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Программирование на Python в примерах и задачах",
+        "book_price": "1 411₽",
+        "book_author": "Алексей Васильев",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Высокопроизводительные Python-приложения. Практическое руководство по эффективному программированию",
+        "book_price": "1 801₽",
+        "book_author": "Миша Горелик",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Изучаем Python: программирование игр, визуализация данных, веб-приложения",
+        "book_price": "1 298₽",
+        "book_author": "Эрик Мэтиз",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Изучаем программирование на Python",
+        "book_price": "1 898₽",
+        "book_author": "Пол Бэрри",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Программируем с детьми. Создайте 50 крутых игр на Python",
+        "book_price": "1 508₽",
+        "book_author": "Адриана Таке",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Учим Python, делая крутые игры",
+        "book_price": "1 086₽",
+        "book_author": "Эл Свейгарт",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Миссия: Python. Создаем игры вместе с детьми",
+        "book_price": "527₽",
+        "book_author": "Шон Макманус",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Легкий способ выучить Python 3 еще глубже",
+        "book_price": "742₽",
+        "book_author": "Зед А. Шоу",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Легкий способ выучить Python 3",
+        "book_price": "742₽",
+        "book_author": "Зед А. Шоу",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Программирование на Python с нуля. Учимся думать как программисты, осваиваем логику языка и пишем первый код!",
+        "book_price": "1 138₽",
+        "book_author": "Патриша Фостер",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "40 алгоритмов, которые должен знать каждый программист на Python",
+        "book_price": "1 519₽",
+        "book_author": "Имран Ахмад",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Простой Python. Современный стиль программирования",
+        "book_price": "1 591₽",
+        "book_author": "Билл Любанович",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Справочник PYTHON. Кратко, быстро, под рукой",
+        "book_price": "528₽",
+        "book_author": "Д. Кольцов",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Практическая статистика для специалистов Data Science. 50+ важнейших понятий с использованием R и Python",
+        "book_price": "922₽",
+        "book_author": "Питер Брюс",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Основы Python. Научитесь думать как программист",
+        "book_price": "1 200₽",
+        "book_author": "Аллен Б. Дауни",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Программируем на Python",
+        "book_price": "1 102₽",
+        "book_author": "Майкл Доусон",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Внутри CPYTHON: гид по интерпретатору Python",
+        "book_price": "1 536₽",
+        "book_author": "Этнони Шоу",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Django 4. Практика создания веб-сайтов на Python",
+        "book_price": "1 541₽",
+        "book_author": "Владимир Дронов",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Знакомство с Python",
+        "book_price": "1 669₽",
+        "book_author": "Дэн Бейдер, Дэвид Эймос, Джоанна Яблонски",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Чистый Python. Тонкости программирования для профи",
+        "book_price": "1 206₽",
+        "book_author": "Дэн Бейдер",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "\"Непрактичный\" Python: занимательные проекты для тех, кто хочет поумнеть",
+        "book_price": "984₽",
+        "book_author": "Ли Воган",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Простой Python. Современный стиль программирования",
+        "book_price": "1 591₽",
+        "book_author": "",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Black Hat Python: программирование для хакеров и пентестеров, 2-е изд",
+        "book_price": "1 315₽",
+        "book_author": "Джастин Зейтц",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Глубокое обучение на Python",
+        "book_price": "1 369₽",
+        "book_author": "Франсуа Шолле",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Объектно-ориентированное программирование с помощью Python",
+        "book_price": "1 703₽",
+        "book_author": "Ирв Кальб",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Машинное обучение с помощью Python для всех: руководство по созданию систем машинного обучения: от основ до мощных инструментов",
+        "book_price": "2 483₽",
+        "book_author": "Марк Феннер",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Нейросети на Python. Основы ИИ и машинного обучения",
+        "book_price": "Нет цены",
+        "book_author": "И. Куликова",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Программирование на Python с помощью GitHub Copilot и ChatGPT",
+        "book_price": "1 546₽",
+        "book_author": "Даниэль Зингаро, Лео Портер",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Начнем.Python. Просто о сложном",
+        "book_price": "755₽",
+        "book_author": "С. Иванов",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Простой Python. Современный стиль программирования",
+        "book_price": "Нет цены",
+        "book_author": "Билл Любанович",
+        "book_in_stock": "Где купить?"
+    },
+    {
+        "book_title": "Знакомьтесь, Python. Секреты профессии",
+        "book_price": "806₽",
+        "book_author": "Евгений Павлов",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Классические задачи Computer Science на языке Python",
+        "book_price": "1 094₽",
+        "book_author": "Дэвид Копец",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Надежный Python",
+        "book_price": "894₽",
+        "book_author": "Патрик Виафоре",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "FastAPI: веб-разработка на Python",
+        "book_price": "2 098₽",
+        "book_author": "",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Алгоритмы. С примерами на Python",
+        "book_price": "1 536₽",
+        "book_author": "Джордж Хайнеман",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Основы Python для Data Science",
+        "book_price": "1 646₽",
+        "book_author": "Кеннеди Берман",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "HTML, CSS, SCRATCH, PYTHON. Моя первая книга по программированию",
+        "book_price": "604₽",
+        "book_author": "",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Мама, не отвлекай. Я Python учу!",
+        "book_price": "973₽",
+        "book_author": "Игорь Лазаревский",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Публикация пакетов Python. Тестирование, распространение и автоматизация проектов",
+        "book_price": "1 411₽",
+        "book_author": "Д. Хиллард",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Django 3.0. Практика создания веб-сайтов на Python",
+        "book_price": "1 321₽",
+        "book_author": "Владимир Дронов",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Интерпретируемое машинное обучение на Python",
+        "book_price": "1 677₽",
+        "book_author": "Серг Масис",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Объектно-ориентированный Python",
+        "book_price": "2 528₽",
+        "book_author": "Стивен Ф. Лотт, Дасти Филлипс",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Объектно-ориентированное программирование с помощью Python",
+        "book_price": "Нет цены",
+        "book_author": "Ирв Кальб",
+        "book_in_stock": "Где купить?"
+    },
+    {
+        "book_title": "Путь Python. Черный пояс по разработке, масштабированию, тестированию и развертыванию",
+        "book_price": "1 009₽",
+        "book_author": "Джульен Данжу",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Глубокое обучение с подкреплением на Python. OpenAI Gym и TensorFlow для профи",
+        "book_price": "1 155₽",
+        "book_author": "Судхарсан Равичандиран",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Машинное обучение с использованием Python. Сборник рецептов",
+        "book_price": "1 230₽",
+        "book_author": "Крис Элбон",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Однострочники Python: лаконичный и содержательный код",
+        "book_price": "1 315₽",
+        "book_author": "Кристиан Майер",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Программирование на Python. Первые шаги",
+        "book_price": "Нет цены",
+        "book_author": "Анастасия Щерба",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Django 2.1 Практика создания веб-сайтов на Python. Модели, контроллеры и шаблоны. Разграничение доступа. Аутентификация через социальные сети. Вывод миниатюр. Bootstrap. Captcha. Angular. Bbcode. Rest",
+        "book_price": "835₽",
+        "book_author": "Владимир Дронов",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Разработка с использованием квантовых компьютеров. Программирование квантовых машин в облаке: Python, Qiskit, Quantum Assembly language и IBM Qexperience",
+        "book_price": "1 604₽",
+        "book_author": "Владимир Силва",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Обработка естественного языка. Python и spaCy на практике",
+        "book_price": "1 210₽",
+        "book_author": "Юрий Васильев",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Сетевое программирование на Python",
+        "book_price": "1 244₽",
+        "book_author": "Джон Галбрейт",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Обработка данных на Python. Data Wrangling и  Data Quality",
+        "book_price": "1 057₽",
+        "book_author": "Сьюзен Макгрегор",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Робототехника. Управление квадрокоптером: Квадрокоптер Tello. Программирование на языке Python. 8-11 классы.",
+        "book_price": "513₽",
+        "book_author": "Денис Копосов",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Информатика. 8-9 классы. Начала программирования на языке Python. Дополнительные главы к учебникам",
+        "book_price": "381₽",
+        "book_author": "Людмила Босова",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Программирование на Python в примерах и задачах",
+        "book_price": "Нет цены",
+        "book_author": "Алексей Васильев",
+        "book_in_stock": "Буду ждать"
+    },
+    {
+        "book_title": "Программирование. Python. C++. Часть 1. Учебное пособие",
+        "book_price": "714₽",
+        "book_author": "Константин Поляков",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Программирование. Python. C++. Часть 2. Учебное пособие",
+        "book_price": "714₽",
+        "book_author": "Константин Поляков",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Программирование. Python. C++. Часть 3. Учебное пособие",
+        "book_price": "714₽",
+        "book_author": "Константин Поляков",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Asyncio и конкурентное программирование на Python",
+        "book_price": "2 841₽",
+        "book_author": "Мэттью Фаулер",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Математические алгоритмы для программистов. 3D-графика, машинное обучение и моделирование на Python",
+        "book_price": "2 707₽",
+        "book_author": "Пол Орланд",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Начинаем программировать на Python. 4-е издание",
+        "book_price": "1 100₽",
+        "book_author": "Тони Гэддис",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Программирование. Python. C++. Часть 4. Учебное пособие",
+        "book_price": "714₽",
+        "book_author": "Константин Поляков",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Глубокое обучение: легкая разработка проектов на Python",
+        "book_price": "2 260₽",
+        "book_author": "Сет Вейдман",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Глубокое обучение на Python",
+        "book_price": "940₽",
+        "book_author": "Франсуа Шолле",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Обучение с подкреплением на PyTorch: сборник рецептов. Свыше 60 рецептов проектирования, разработки и развертывания самообучающихся моделей на Python",
+        "book_price": "2 005₽",
+        "book_author": "Юси Лю",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Как устроен Python. Гид для разработчиков, программистов и интересующихся",
+        "book_price": "839₽",
+        "book_author": "Мэтт Харрисон",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Программируем на Python",
+        "book_price": "Нет цены",
+        "book_author": "Майкл Доусон",
+        "book_in_stock": "Где купить?"
+    },
+    {
+        "book_title": "Справочник PYTHON. Кратко, быстро, под рукой",
+        "book_price": "Нет цены",
+        "book_author": "Д. Кольцов",
+        "book_in_stock": "Буду ждать"
+    },
+    {
+        "book_title": "Простой Python просто с нуля",
+        "book_price": "Нет цены",
+        "book_author": "Рик Гаско",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Программирование на Python для начинающих",
+        "book_price": "470₽",
+        "book_author": "Майк МакГрат",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Программирование на Python с нуля. Учимся думать как программисты, осваиваем логику языка и пишем первый код!",
+        "book_price": "690₽",
+        "book_author": "Патриша Фостер",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Структуры данных в Python. Начальный курс",
+        "book_price": "1 529₽",
+        "book_author": "Дональд Р. Шихи",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Профессиональная разработка на Python",
+        "book_price": "Нет цены",
+        "book_author": "",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Легкий способ выучить Python 3 еще глубже",
+        "book_price": "630₽",
+        "book_author": "Зед А. Шоу",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Анализ социальных медиа на Python",
+        "book_price": "1 837₽",
+        "book_author": "Марко Бонцанини",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Компьютерное зрение на Python. Первые шаги",
+        "book_price": "Нет цены",
+        "book_author": "Эдуард Шакирьянов",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Аналитика в Power BI с помощью R и Python",
+        "book_price": "Нет цены",
+        "book_author": "Розалин Уэйд",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Программирование GPU при помощи Python и CUDA",
+        "book_price": "Нет цены",
+        "book_author": "Бриан Тоуманнен",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Скраппинг веб-сайтов с помощью Python",
+        "book_price": "1 439₽",
+        "book_author": "Райан Митчелл",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Основы Data Science и Big Data. Python и наука о данных",
+        "book_price": "Нет цены",
+        "book_author": "",
+        "book_in_stock": "Буду ждать"
+    },
+    {
+        "book_title": "Pyomo. Моделирование оптимизации на Python",
+        "book_price": "Нет цены",
+        "book_author": "Майкл Л. Бинум, Габриэль А. Хакебейл, Уильям Э. Харт",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Прогнозное моделирование в IBM SPSS Statistics, R и Python Метод деревьев решений и случайный лес",
+        "book_price": "Нет цены",
+        "book_author": "Артем Груздев",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Использование языка Python в теории вероятностей. Учебник",
+        "book_price": "Нет цены",
+        "book_author": "Сергей Криволапов",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Легкий способ выучить Python",
+        "book_price": "714₽",
+        "book_author": "Зед А. Шоу",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Эволюционные нейросети на языке Python",
+        "book_price": "2 034₽",
+        "book_author": "Ярослав Омельяненко",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Изучаем основы Python. Практический курс для дата-аналитиков",
+        "book_price": "Нет цены",
+        "book_author": "Павел Меликов",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Биоинформатика с PYTHON. Книга рецептов",
+        "book_price": "2 674₽",
+        "book_author": "Тиаго Антао",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Легкий способ выучить Python",
+        "book_price": "Нет цены",
+        "book_author": "Зед А. Шоу",
+        "book_in_stock": "Буду ждать"
+    },
+    {
+        "book_title": "Цифровая обработка сигналов на языке Python (м) Дауни",
+        "book_price": "Нет цены",
+        "book_author": "Аллен Б. Дауни",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Учим Python, делая крутые игры",
+        "book_price": "660₽",
+        "book_author": "Эл Свейгарт",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Рецепты Python. Коллекция лучших техник программирования",
+        "book_price": "2 420₽",
+        "book_author": "",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Django 2.1 Практика создания веб-сайтов на Python. Модели, контроллеры и шаблоны. Разграничение доступа. Аутентификация через социальные сети. Вывод миниатюр. Bootstrap. Captcha. Angular. Bbcode. Rest",
+        "book_price": "1 175₽",
+        "book_author": "Владимир Дронов",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Глубокое обучение с подкреплением. Теория и практика на языке Python",
+        "book_price": "1 978₽",
+        "book_author": "Лаура Грессер",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Простой Python для опытных программистов",
+        "book_price": "934₽",
+        "book_author": "Рик Гаско",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Байесовский анализ на Python. Введение в статистическое моделирование и вероятностное программирование с использованием PyMC3 и ArviZ",
+        "book_price": "Нет цены",
+        "book_author": "Освальдо Мартин",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Twisted из первых рук. Событийное и асинхронное программирование на Python",
+        "book_price": "Нет цены",
+        "book_author": "Моше Задка",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Алгоритмы обучения с подкреплением на Python. Описание и разработка алгоритмов искусственного интелекта",
+        "book_price": "2 005₽",
+        "book_author": "Андреа Лонца",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Безопасность веб-приложений на Python",
+        "book_price": "Нет цены",
+        "book_author": "Деннис Бирн",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Изучаем квантовые вычисления на Python и Q#",
+        "book_price": "Нет цены",
+        "book_author": "",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Решение трудных и увлекательных задач на Python",
+        "book_price": "Нет цены",
+        "book_author": "Рашид Бехзадидуст, Хабиб Изадха",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Секреты Python Pro",
+        "book_price": "1 859₽",
+        "book_author": "Д. Хиллард",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Django 3.0. Практика создания веб-сайтов на Python",
+        "book_price": "940₽",
+        "book_author": "Владимир Дронов",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Секреты Python: 59 рекомендаций по написанию эффективного кода",
+        "book_price": "890₽",
+        "book_author": "А.Г. Гузикевич, Бретт Слаткин",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Изучение робототехники с помощью Python",
+        "book_price": "Нет цены",
+        "book_author": "Джозеф Лентин",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Научное программирование на Python",
+        "book_price": "2 719₽",
+        "book_author": "Кейси Хилл",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Изучение сложных систем с помощью Python",
+        "book_price": "Нет цены",
+        "book_author": "Аллен Б. Дауни",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Анализ поведенческих данных на R и Python",
+        "book_price": "2 507₽",
+        "book_author": "Флоран Бюиссон",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Экономика на Python. Учебник",
+        "book_price": "Нет цены",
+        "book_author": "Марина Хрипунова",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Глубокое обучение на Python",
+        "book_price": "2 199₽",
+        "book_author": "Франсуа Шолле",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Разработка геоприложений на языке Python",
+        "book_price": "Нет цены",
+        "book_author": "Эрик Вестра",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Математика на Python. Часть I. Элементы линейной алгебры и аналитической геометрии. Учебно-методическое пособие",
+        "book_price": "Нет цены",
+        "book_author": "Анна Балджы",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Raspberry Pi OS. Системное администрирование с systemd и Python",
+        "book_price": "Нет цены",
+        "book_author": "Роберт М. Корецкий",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Квантовая химия и квантовые вычисления с примерами на Python",
+        "book_price": "2 507₽",
+        "book_author": "Ален Чанс, Кипер Шарки",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Трехмерное глубокое обучение на PYTHON",
+        "book_price": "Нет цены",
+        "book_author": "Лилит Йольан, Ксудонг Ма, Вишах Хегде",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Легкий способ выучить Python 3",
+        "book_price": "630₽",
+        "book_author": "Зед А. Шоу",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Алгоритмы Data Science и их практическая реализация на Python: учебное пособие",
+        "book_price": "2 589₽",
+        "book_author": "Андрей Протодьяконов, Петр Пылов, Владимир Садовников",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Грокаем глубокое обучение",
+        "book_price": "938₽",
+        "book_author": "Эндрю Траск",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Computer Science для программиста-самоучки. Все что нужно знать о структурах данных и алгоритмах",
+        "book_price": "1 104₽",
+        "book_author": "Кори Альтхофф",
+        "book_in_stock": "Купить"
+    },
+    {
+        "book_title": "Python для детей и родителей. Играй и программируй",
+        "book_price": "Нет цены",
+        "book_author": "Брайсон Пэйн",
+        "book_in_stock": "Где купить?"
+    },
+    {
+        "book_title": "Python для сложных задач: наука о данных и машинное обучение",
+        "book_price": "Нет цены",
+        "book_author": "Дж. Вандер Плас",
+        "book_in_stock": "Где купить?"
+    },
+    {
+        "book_title": "Python, Django и PyCharm для начинающих",
+        "book_price": "Нет цены",
+        "book_author": "Анатолий Постолит",
+        "book_in_stock": "Где купить?"
+    },
+    {
+        "book_title": "Python для детей и родителей",
+        "book_price": "Нет цены",
+        "book_author": "Михаил Райтман",
+        "book_in_stock": "Где купить?"
+    },
+    {
+        "book_title": "Python на примерах. Практический курс по программированию",
+        "book_price": "Нет цены",
+        "book_author": "А.Н. Васильев",
+        "book_in_stock": "Где купить?"
+    },
+    {
+        "book_title": "Python для всех",
+        "book_price": "Нет цены",
+        "book_author": "Чарльз Р. Северанс",
+        "book_in_stock": "Где купить?"
+    },
+    {
+        "book_title": "Python. Великое программирование в Minecraft",
+        "book_price": "Нет цены",
+        "book_author": "Андрей Корягин",
+        "book_in_stock": "Где купить?"
+    },
+    {
+        "book_title": "Python 3 и PyQt 5. Разработка приложений",
+        "book_price": "Нет цены",
+        "book_author": "Николай Прохоренок",
+        "book_in_stock": "Где купить?"
+    },
+    {
+        "book_title": "Python. Разработка на основе тестирования",
+        "book_price": "Нет цены",
+        "book_author": "",
+        "book_in_stock": "Где купить?"
+    },
+    {
+        "book_title": "Python для детей, которые пока не программируют",
+        "book_price": "Нет цены",
+        "book_author": "Елена Крылова",
+        "book_in_stock": "Где купить?"
+    },
+    {
+        "book_title": "Python и машинное обучение",
+        "book_price": "Нет цены",
+        "book_author": "Себастьян Рашка",
+        "book_in_stock": "Где купить?"
+    },
+    {
+        "book_title": "Python для аналитики данных. Практический курс",
+        "book_price": "Нет цены",
+        "book_author": "Павел Меликов",
+        "book_in_stock": "Где купить?"
+    },
+    {
+        "book_title": "Python. Лучшие практики и инструменты",
+        "book_price": "Нет цены",
+        "book_author": "Михал Яворски",
+        "book_in_stock": "Где купить?"
+    },
+    {
+        "book_title": "Python для детей",
+        "book_price": "Нет цены",
+        "book_author": "Ханс-Георг Шуманн",
+        "book_in_stock": "Где купить?"
+    },
+    {
+        "book_title": "Python на примерах. Практический курс по программированию, 2-е издание",
+        "book_price": "Нет цены",
+        "book_author": "А.Н. Васильев",
+        "book_in_stock": "Где купить?"
+    },
+    {
+        "book_title": "Python. К вершинам мастерства. Локаничное и эффективное программирование",
+        "book_price": "Нет цены",
+        "book_author": "Лучано Рамальо",
+        "book_in_stock": "Где купить?"
+    },
+    {
+        "book_title": "Python 3. Самое необходимое",
+        "book_price": "Нет цены",
+        "book_author": "Владимир Дронов, Николай Прохоренок",
+        "book_in_stock": "Где купить?"
+    },
+    {
+        "book_title": "Программирование на Python для начинающих",
+        "book_price": "Нет цены",
+        "book_author": "Майк МакГрат",
+        "book_in_stock": "Где купить?"
+    },
+    {
+        "book_title": "Начинаем программировать на Python. 5-е издание",
+        "book_price": "Нет цены",
+        "book_author": "Тони Гэддис",
+        "book_in_stock": "Где купить?"
+    },
+    {
+        "book_title": "Большая книга проектов Python",
+        "book_price": "Нет цены",
+        "book_author": "Эл Свейгарт",
+        "book_in_stock": "Где купить?"
+    },
+    {
+        "book_title": "Алгоритмический тренинг. Решения практических задач на Python и C++",
+        "book_price": "Нет цены",
+        "book_author": "Максим Иванов",
+        "book_in_stock": "Где купить?"
+    },
+    {
+        "book_title": "Основы искусственного интеллекта в примерах на Python. Самоучитель",
+        "book_price": "Нет цены",
+        "book_author": "Анатолий Постолит",
+        "book_in_stock": "Где купить?"
+    },
+    {
+        "book_title": "Основы искусственного интеллекта в примерах на Python. Самоучитель",
+        "book_price": "Нет цены",
+        "book_author": "Анатолий Постолит",
+        "book_in_stock": "Где купить?"
+    },
+    {
+        "book_title": "Изучаем Python. Программирование игр, визуализация данных, веб-приложения",
+        "book_price": "Нет цены",
+        "book_author": "Эрик Мэтиз",
+        "book_in_stock": "Где купить?"
+    },
+    {
+        "book_title": "Minecraft. Программируй свой мир на Python. 2-е межд. изд.",
+        "book_price": "Нет цены",
+        "book_author": "Дэвид Вэйл, Мартин О'Хэнлон",
+        "book_in_stock": "Где купить?"
+    },
+    {
+        "book_title": "Программирование на Python. Иллюстрированное руководство для детей",
+        "book_price": "Нет цены",
+        "book_author": "Кэрол Вордерман",
+        "book_in_stock": "Где купить?"
+    },
+    {
+        "book_title": "Основы программирования на языке Python",
+        "book_price": "Нет цены",
+        "book_author": "Дмитрий Златопольский",
+        "book_in_stock": "Где купить?"
+    },
+    {
+        "book_title": "Начинаем программировать на Python. 4-е издание",
+        "book_price": "Нет цены",
+        "book_author": "Тони Гэддис",
+        "book_in_stock": "Где купить?"
+    },
+    {
+        "book_title": "Предварительная подготовка данных в PYTHON. Том 2. План, примеры и метрики качества",
+        "book_price": "Нет цены",
+        "book_author": "Артем Груздев",
+        "book_in_stock": "Где купить?"
+    },
+    {
+        "book_title": "Практикум по математической статистике. Проверка гипотез с использованием Excel, MatCalc, R и Python",
+        "book_price": "Нет цены",
+        "book_author": "Владимир Глебов",
+        "book_in_stock": "Где купить?"
+    },
+    {
+        "book_title": "Разработка приложений с графическим пользовательским интерфейсом на языке Python. Учебное пособие для СПО.",
+        "book_price": "Нет цены",
+        "book_author": "Сергей Букунов, Ольга Букунова",
+        "book_in_stock": "Где купить?"
+    },
+    {
+        "book_title": "Численные методы. Вычислительный практикум. Практическое применение численных методов при использовании алгоритмического языка Python",
+        "book_price": "Нет цены",
+        "book_author": "Петр Вабищевич",
+        "book_in_stock": "Где купить?"
+    },
+    {
+        "book_title": "Разработка веб-приложений с использованием Flask на языке Python",
+        "book_price": "Нет цены",
+        "book_author": "Мигель Гринберг",
+        "book_in_stock": "Где купить?"
+    },
+    {
+        "book_title": "Крупномасштабное машинное обучение вместе с Python",
+        "book_price": "Нет цены",
+        "book_author": "Альберто Боскетти, Лука Массарон, Бастиан Шарден",
+        "book_in_stock": "Где купить?"
+    },
+    {
+        "book_title": "Программирование для детей на языке Python",
+        "book_price": "Нет цены",
+        "book_author": "Александр Банкрашков",
+        "book_in_stock": "Где купить?"
+    },
+    {
+        "book_title": "GPT-3: программирование на PYTHON в примерах",
+        "book_price": "Нет цены",
+        "book_author": "Эль Амри Аймен",
+        "book_in_stock": "Где купить?"
+    },
+    {
+        "book_title": "Основы Data Science и Big Data. Python и наука о данных",
+        "book_price": "Нет цены",
+        "book_author": "",
+        "book_in_stock": "Где купить?"
+    },
+    {
+        "book_title": "Django: практика создания Web-сайтов на Python",
+        "book_price": "Нет цены",
+        "book_author": "Владимир Дронов",
+        "book_in_stock": "Где купить?"
+    },
+    {
+        "book_title": "Вероятностное программирование на Python: байесовский вывод и алгоритмы",
+        "book_price": "Нет цены",
+        "book_author": "Кэмерон Дэвидсон-Пайлон",
+        "book_in_stock": "Где купить?"
+    },
+    {
+        "book_title": "Алгоритмы на графах. Использование языка Python",
+        "book_price": "Нет цены",
+        "book_author": "Олег Мельников",
+        "book_in_stock": "Где купить?"
+    },
+    {
+        "book_title": "Практикум по анализу данных на языках Python и R: Учебное пособие",
+        "book_price": "Нет цены",
+        "book_author": "О. Баюк, Мариам Исаева, Максим Самсонкин",
+        "book_in_stock": "Где купить?"
+    },
+    {
+        "book_title": "Стержень гелевый \"InColor Purple Python\" синий, ErichKrause",
+        "book_price": "Нет цены",
+        "book_author": "Стержни для ручек",
+        "book_in_stock": "Где купить?"
+    },
+    {
+        "book_title": "Python. Карманный справочник",
+        "book_price": "Нет цены",
+        "book_author": "Марк Лутц",
+        "book_in_stock": "Буду ждать"
+    },
+    {
+        "book_title": "Python: создание приложений. Библиотека профессионала, 3-е издание",
+        "book_price": "Нет цены",
+        "book_author": "",
+        "book_in_stock": "Буду ждать"
+    },
+    {
+        "book_title": "Python и анализ данных",
+        "book_price": "Нет цены",
+        "book_author": "",
+        "book_in_stock": "Буду ждать"
+    },
+    {
+        "book_title": "Python для финансовых расчетов. Искусство работы с финансовыми данными",
+        "book_price": "Нет цены",
+        "book_author": "",
+        "book_in_stock": "Буду ждать"
+    },
+    {
+        "book_title": "Python. К вершинам мастерства",
+        "book_price": "Нет цены",
+        "book_author": "Лучано Рамальо",
+        "book_in_stock": "Буду ждать"
+    },
+    {
+        "book_title": "Python Справочник Полное описание языка (3 изд.) Мартелли",
+        "book_price": "Нет цены",
+        "book_author": "Алекс Мартелли",
+        "book_in_stock": "Буду ждать"
+    },
+    {
+        "book_title": "Python. Самое необходимое /+ Видеокурс (на DVD)",
+        "book_price": "Нет цены",
+        "book_author": "Николай Прохоренок",
+        "book_in_stock": "Буду ждать"
+    },
+    {
+        "book_title": "Python и машинное обучение. Машинное и глубокое обучение с использованием Python, scikit-learn и TensorFlow",
+        "book_price": "Нет цены",
+        "book_author": "",
+        "book_in_stock": "Буду ждать"
+    },
+    {
+        "book_title": "PYTHON и анализ данных",
+        "book_price": "Нет цены",
+        "book_author": "Уэс Маккинни",
+        "book_in_stock": "Буду ждать"
+    },
+    {
+        "book_title": "Python и наука о данных для чайников",
+        "book_price": "Нет цены",
+        "book_author": "",
+        "book_in_stock": "Буду ждать"
+    },
+    {
+        "book_title": "Python и машинное обучение",
+        "book_price": "Нет цены",
+        "book_author": "Себастьян Рашка",
+        "book_in_stock": "Буду ждать"
+    },
+    {
+        "book_title": "Python 3 и PyQt. Разработка приложений",
+        "book_price": "Нет цены",
+        "book_author": "Николай Прохоренок",
+        "book_in_stock": "Буду ждать"
+    },
+    {
+        "book_title": "Python для чайников",
+        "book_price": "Нет цены",
+        "book_author": "Джон Пол Мюллер",
+        "book_in_stock": "Буду ждать"
+    },
+    {
+        "book_title": "Python для детей и родителей",
+        "book_price": "Нет цены",
+        "book_author": "Михаил Райтман",
+        "book_in_stock": "Буду ждать"
+    },
+    {
+        "book_title": "Python для программирования криптовалют",
+        "book_price": "Нет цены",
+        "book_author": "Джимми Сонг",
+        "book_in_stock": "Буду ждать"
+    },
+    {
+        "book_title": "Python. Наиболее полное руководство",
+        "book_price": "Нет цены",
+        "book_author": "",
+        "book_in_stock": "Буду ждать"
+    },
+    {
+        "book_title": "Программирование на Python 3. Подробное руководство",
+        "book_price": "Нет цены",
+        "book_author": "",
+        "book_in_stock": "Буду ждать"
+    },
+    {
+        "book_title": "Изучаем Python. Том 2",
+        "book_price": "Нет цены",
+        "book_author": "Марк Лутц",
+        "book_in_stock": "Буду ждать"
+    },
+    {
+        "book_title": "Программирование на языке Python: учебный курс",
+        "book_price": "Нет цены",
+        "book_author": "Роберт Седжвик",
+        "book_in_stock": "Буду ждать"
+    },
+    {
+        "book_title": "Построение систем машинного обучения на языке Python",
+        "book_price": "Нет цены",
+        "book_author": "",
+        "book_in_stock": "Буду ждать"
+    },
+    {
+        "book_title": "Автоматизация рутинных задач с помощью Python: практическое руководство для начинающих",
+        "book_price": "Нет цены",
+        "book_author": "Эл Свейгарт",
+        "book_in_stock": "Буду ждать"
+    },
+    {
+        "book_title": "Стандартная библиотека Python 3: справочник с примерами, 2-е издание",
+        "book_price": "Нет цены",
+        "book_author": "Даг Хеллман",
+        "book_in_stock": "Буду ждать"
+    },
+    {
+        "book_title": "Изучаем Python. Том 1",
+        "book_price": "Нет цены",
+        "book_author": "Марк Лутц",
+        "book_in_stock": "Буду ждать"
+    },
+    {
+        "book_title": "Вычислительная математика на смартфонах, коммуникаторах и ноутбуках с использованием программных сред Python: Учебное пособие.",
+        "book_price": "Нет цены",
+        "book_author": "Игорь Соловьев",
+        "book_in_stock": "Буду ждать"
+    },
+    {
+        "book_title": "Автостопом по Python",
+        "book_price": "Нет цены",
+        "book_author": "Кеннет Ритц, Таня Шлюссер",
+        "book_in_stock": "Буду ждать"
+    },
+    {
+        "book_title": "PYCHARM: профессиональная работа на PYTHON",
+        "book_price": "Нет цены",
+        "book_author": "Куан Нгуен",
+        "book_in_stock": "Буду ждать"
+    },
+    {
+        "book_title": "Паттерны разработки на Python: TDD, DDD и событийно-ориентированная архитектура",
+        "book_price": "Нет цены",
+        "book_author": "Гарри Персиваль",
+        "book_in_stock": "Буду ждать"
+    },
+    {
+        "book_title": "Алгоритмы. Справочник с примерами на C, C++, Java и Python, 2-е издание",
+        "book_price": "Нет цены",
+        "book_author": "Гэри Поллис, Стэнли Селков, Джордж Хайнеманн",
+        "book_in_stock": "Буду ждать"
+    },
+    {
+        "book_title": "Сверхбыстрый Python. Эффективные техники для работы с большими наборами данных",
+        "book_price": "Нет цены",
+        "book_author": "Тиаго Антао",
+        "book_in_stock": "Буду ждать"
+    },
+    {
+        "book_title": "Криптография и взлом шифров на Python",
+        "book_price": "Нет цены",
+        "book_author": "Эл Свейгарт",
+        "book_in_stock": "Буду ждать"
+    },
+    {
+        "book_title": "Программирование на Python: базовый курс",
+        "book_price": "Нет цены",
+        "book_author": "",
+        "book_in_stock": "Буду ждать"
+    },
+    {
+        "book_title": "Язык программирования Python: практикум. Учебное пособие",
+        "book_price": "Нет цены",
+        "book_author": "Роман Жуков",
+        "book_in_stock": "Буду ждать"
+    },
+    {
+        "book_title": "Объяснимые модели искусственного интеллекта на Python",
+        "book_price": "Нет цены",
+        "book_author": "Прадипта Мишра",
+        "book_in_stock": "Буду ждать"
+    },
+    {
+        "book_title": "Прикладной анализ текстовых данных на Python. Машинное обучение и создание приложений обработки естественного языка",
+        "book_price": "Нет цены",
+        "book_author": "Бенджамин Бенгфорт, Ребекка Билбро, Тони Охеда",
+        "book_in_stock": "Буду ждать"
+    },
+    {
+        "book_title": "Графика на PYTHON. Создание 2D- и 3D-изображений для научной графики и презентаций",
+        "book_price": "Нет цены",
+        "book_author": "",
+        "book_in_stock": "Буду ждать"
+    },
+    {
+        "book_title": "Практическое введение в решение дифференциальных уравнений в Python",
+        "book_price": "Нет цены",
+        "book_author": "Николай Ершов",
+        "book_in_stock": "Буду ждать"
+    },
+    {
+        "book_title": "Генетические алгоритмы на Python. Применение генетических алгоритмов к решению задач глубокого обучения и искуственного интеллекта",
+        "book_price": "Нет цены",
+        "book_author": "Эйял Вирсански",
+        "book_in_stock": "Буду ждать"
+    },
+    {
+        "book_title": "Django. Разработка веб-приложений на Python. - Пер. с англ.",
+        "book_price": "Нет цены",
+        "book_author": "",
+        "book_in_stock": "Буду ждать"
+    },
+    {
+        "book_title": "Искусственный интеллект с примерами на Python. Создание приложений искусственного интеллекта с помощью Python для взаимодействия с окружающим миром",
+        "book_price": "Нет цены",
+        "book_author": "",
+        "book_in_stock": "Буду ждать"
+    },
+    {
+        "book_title": "Численные методы. Вычислительный практикум. Практическое применение численных методов при использовании алгоритмического языка Python",
+        "book_price": "Нет цены",
+        "book_author": "Петр Вабищевич",
+        "book_in_stock": "Буду ждать"
+    },
+    {
+        "book_title": "Язык программирования Python. Учебное пособие",
+        "book_price": "Нет цены",
+        "book_author": "Роман Жуков",
+        "book_in_stock": "Буду ждать"
+    },
+    {
+        "book_title": "Разработка приложений с графическим пользовательским интерфейсом на языке Python. Учебное пособие для вузов",
+        "book_price": "Нет цены",
+        "book_author": "Сергей Букунов, Ольга Букунова",
+        "book_in_stock": "Буду ждать"
+    },
+    {
+        "book_title": "Современный скрапинг веб-сайтов с помощью Python",
+        "book_price": "Нет цены",
+        "book_author": "Райан Митчелл",
+        "book_in_stock": "Буду ждать"
+    },
+    {
+        "book_title": "Устройство и программирование автономных роботов. Проекты на PYTHON и RASPBERRY PI",
+        "book_price": "Нет цены",
+        "book_author": "Дэнни Стейпл",
+        "book_in_stock": "Буду ждать"
+    },
+    {
+        "book_title": "Секреты Python: 59 рекомендаций по написанию эффективного кода",
+        "book_price": "Нет цены",
+        "book_author": "А.Г. Гузикевич, Бретт Слаткин",
+        "book_in_stock": "Буду ждать"
+    },
+    {
+        "book_title": "Автоматизация рутинных задач с помощью Python. Практическое руководство для начинающих. 2-е издание",
+        "book_price": "Нет цены",
+        "book_author": "Эл Свейгарт",
+        "book_in_stock": "Буду ждать"
+    },
+    {
+        "book_title": "Предварительная подготовка данных в PYTHON. Том 1. Инструменты и валидация",
+        "book_price": "Нет цены",
+        "book_author": "Артем Груздев",
+        "book_in_stock": "Буду ждать"
+    },
+    {
+        "book_title": "Алгебра и геометрия с примерами на Python. Учебное пособие для вузов",
+        "book_price": "Нет цены",
+        "book_author": "",
+        "book_in_stock": "Буду ждать"
+    },
+    {
+        "book_title": "Программируем с Minecraft. Создай свой мир с помощью Python",
+        "book_price": "Нет цены",
+        "book_author": "Крейг Ричардсон",
+        "book_in_stock": "Буду ждать"
+    },
+    {
+        "book_title": "Программирование компьютерного зрения на Python",
+        "book_price": "Нет цены",
+        "book_author": "Ян Солем",
+        "book_in_stock": "Буду ждать"
+    },
+    {
+        "book_title": "Задачи по дискретной математике с алгоритмами на Python",
+        "book_price": "Нет цены",
+        "book_author": "Сергей Борзунов, Сергей Кургалин",
+        "book_in_stock": "Буду ждать"
+    },
+    {
+        "book_title": "Программирование на языке высокого уровня Python. Учебное пособие для СПО",
+        "book_price": "Нет цены",
+        "book_author": "Дмитрий Федоров",
+        "book_in_stock": "Буду ждать"
+    },
+    {
+        "book_title": "Введение в машинное обучение с помощью Python. Руководство для специалистов по работе с данными",
+        "book_price": "Нет цены",
+        "book_author": "Андреас Мюллер",
+        "book_in_stock": "Буду ждать"
+    },
+    {
+        "book_title": "Основы алгоритмизации и программирования на Python",
+        "book_price": "Нет цены",
+        "book_author": "Сергей Гуриков",
+        "book_in_stock": "Буду ждать"
+    },
+    {
+        "book_title": "Прикладное машинное обучение без учителя с использованием Python",
+        "book_price": "Нет цены",
+        "book_author": "",
+        "book_in_stock": "Буду ждать"
+    },
+    {
+        "book_title": "Учимся программировать с примерами на Python",
+        "book_price": "Нет цены",
+        "book_author": "Элизабет Фримен, Эрик Фримен",
+        "book_in_stock": "Буду ждать"
+    },
+    {
+        "book_title": "Язык Python и его применение (учебное пособие) (Основы Информационных Технологий). Сузи Р. (Бином",
+        "book_price": "Нет цены",
+        "book_author": "",
+        "book_in_stock": "Буду ждать"
+    },
+    {
+        "book_title": "Глубокое обучение и TensorFlow для профессионалов. Математический подход к построению систем искусственного интеллекта на Python",
+        "book_price": "Нет цены",
+        "book_author": "",
+        "book_in_stock": "Буду ждать"
+    },
+    {
+        "book_title": "Искусственный интеллект и компьютерное зрение. Реальные проекты на Python, Keras и TensorFlow",
+        "book_price": "Нет цены",
+        "book_author": "Анирад Коул, Казам Мехер, Ганджу Сиддха",
+        "book_in_stock": "Буду ждать"
+    },
+    {
+        "book_title": "Машинное обучение: карманный справочник. Краткое руководство по методам структурированного машинного обучения на Python",
+        "book_price": "Нет цены",
+        "book_author": "Мэтт Харрисон",
+        "book_in_stock": "Буду ждать"
+    },
+    {
+        "book_title": "GPT-3: программирование на PYTHON в примерах",
+        "book_price": "Нет цены",
+        "book_author": "Эль Амри Аймен",
+        "book_in_stock": "Буду ждать"
+    },
+    {
+        "book_title": "Программируем на Python в Minecraft",
+        "book_price": "Нет цены",
+        "book_author": "",
+        "book_in_stock": "Буду ждать"
+    }
+]
